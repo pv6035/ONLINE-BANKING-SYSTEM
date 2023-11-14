@@ -1,2 +1,2 @@
 # ONLINE-BANKING-SYSTEM
-Creationg a simple online banking system using C++
+Creating a simple online banking system using C++
